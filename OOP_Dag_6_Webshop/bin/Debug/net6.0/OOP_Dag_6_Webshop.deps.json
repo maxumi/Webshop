@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP_Dag_6_Webshop/1.0.0": {
+        "runtime": {
+          "OOP_Dag_6_Webshop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_Dag_6_Webshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

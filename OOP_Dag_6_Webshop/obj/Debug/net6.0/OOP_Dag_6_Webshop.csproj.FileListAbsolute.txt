@@ -1,0 +1,15 @@
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\bin\Debug\net6.0\OOP_Dag_6_Webshop.exe
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\bin\Debug\net6.0\OOP_Dag_6_Webshop.deps.json
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\bin\Debug\net6.0\OOP_Dag_6_Webshop.runtimeconfig.json
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\bin\Debug\net6.0\OOP_Dag_6_Webshop.dll
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\bin\Debug\net6.0\OOP_Dag_6_Webshop.pdb
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.csproj.AssemblyReference.cache
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.AssemblyInfoInputs.cache
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.AssemblyInfo.cs
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.csproj.CoreCompileInputs.cache
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.dll
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\refint\OOP_Dag_6_Webshop.dll
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.pdb
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\OOP_Dag_6_Webshop.genruntimeconfig.cache
+C:\Users\mumse\Desktop\Skole Programering\OOP_Dag_6_Webshop\obj\Debug\net6.0\ref\OOP_Dag_6_Webshop.dll
